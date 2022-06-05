@@ -1,0 +1,2 @@
+# MessagingSample
+Unityメッセージングのサンプルです
